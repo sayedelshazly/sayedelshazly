@@ -18,6 +18,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/sayed-elshazly-b4098223a/" target="_blank"><img src="https://img.shields.io/badge/-Sayed%20Elshazly-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.facebook.com/sayed.elshazle.7" target="_blank"><img src="https://img.shields.io/badge/-Sayed%20Elshazly-0077B5?style=for-the-badge&logo=Facebook&logoColor=white"/></a>
 ### 🛠 &nbsp;Tech Stack
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
