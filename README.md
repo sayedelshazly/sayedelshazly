@@ -9,7 +9,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=PHP%20|%20Laravel%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🏢 I'm a Software Engineer and Computer scienc student
+- 🏢 I'm a Software Engineer and Computer Science Student
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with PHP, Laravel and ReactJS or anything related to web development.
 - 👨‍💻 Check out my portfolio at https://github.com/sayedelshazly/ to see some of the projects I've worked on.
